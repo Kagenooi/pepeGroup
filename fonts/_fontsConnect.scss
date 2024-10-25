@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'montserrat', sans-serif;
+    src: url('../../fonts/Montserrat/Montserrat-Black.ttf'),
+    url('../../fonts/Montserrat/Montserrat-BlackItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-Bold.ttf'),
+    url('../../fonts/Montserrat/Montserrat-BoldItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-ExtraBold.ttf'),
+    url('../../fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-ExtraLight.ttf'),
+    url('../../fonts/Montserrat/Montserrat-ExtraLightItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-Italic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-Light.ttf'),
+    url('../../fonts/Montserrat/Montserrat-LightItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-Medium.ttf'),
+    url('../../fonts/Montserrat/Montserrat-MediumItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-Regular.ttf'),
+    url('../../fonts/Montserrat/Montserrat-SemiBold.ttf'),
+    url('../../fonts/Montserrat/Montserrat-SemiBoldItalic.ttf'),
+    url('../../fonts/Montserrat/Montserrat-Thin.ttf'),
+    url('../../fonts/Montserrat/Montserrat-ThinItalic.ttf');
+}
+
+@font-face {
+    font-family: 'andika', sans-serif;
+    src: url('../../fonts/Andika/Andika-Bold.ttf'),
+    url('../../fonts/Andika/Andika-BoldItalic.ttf'),
+    url('../../fonts/Andika/Andika-Italic.ttf'),
+    url('../../fonts/Andika/Andika-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'alternates', sans-serif;
+    src: url('../../fonts/Montserrat_Alternates'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-BlackItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Bold.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-BoldItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-ExtraBold.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-ExtraBoldItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-ExtraLight.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-ExtraLightItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Italic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Light.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-LightItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Medium.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-MediumItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-SemiBold.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-SemiBoldItalic.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-Thin.ttf'),
+    url('../../fonts/Montserrat_Alternates/MontserratAlternates-ThinItalic.ttf');
+}
+
+@font-face {
+    font-family: 'metric', sans-serif;
+    src: url('../../fonts/Metric/TestMetric-Black.otf'),
+    url('../../fonts/Metric/TestMetric-BlackItalic.otf'),
+    url('../../fonts/Metric/TestMetric-Bold.otf'),
+    url('../../fonts/Metric/TestMetric-BoldItalic.otf'),
+    url('../../fonts/Metric/TestMetric-Light.otf'),
+    url('../../fonts/Metric/TestMetric-LightItalic.otf'),
+    url('../../fonts/Metric/TestMetric-Medium.otf'),
+    url('../../fonts/Metric/TestMetric-MediumItalic.otf'),
+    url('../../fonts/Metric/TestMetric-Regular.otf'),
+    url('../../fonts/Metric/TestMetric-RegularItalic.otf'),
+    url('../../fonts/Metric/TestMetric-Semibold.otf'),
+    url('../../fonts/Metric/TestMetric-SemiboldItalic.otf'),
+    url('../../fonts/Metric/TestMetric-Thin.otf'),
+    url('../../fonts/Metric/TestMetric-ThinItalic.otf');
+}
+
+@font-face {
+    font-family: 'poppins', sans-serif;
+    src: url('../../fonts/Poppins/Poppins-Black.ttf'),
+    url('../../fonts/Poppins/Poppins-BlackItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-Bold.ttf'),
+    url('../../fonts/Poppins/Poppins-BoldItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-ExtraBold.ttf'),
+    url('../../fonts/Poppins/Poppins-ExtraBoldItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-ExtraLight.ttf'),
+    url('../../fonts/Poppins/Poppins-ExtraLightItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-Italic.ttf'),
+    url('../../fonts/Poppins/Poppins-Light.ttf'),
+    url('../../fonts/Poppins/Poppins-LightItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-Medium.ttf'),
+    url('../../fonts/Poppins/Poppins-MediumItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-Regular.ttf'),
+    url('../../fonts/Poppins/Poppins-SemiBold.ttf'),
+    url('../../fonts/Poppins/Poppins-SemiBoldItalic.ttf'),
+    url('../../fonts/Poppins/Poppins-Thin.ttf'),
+    url('../../fonts/Poppins/Poppins-ThinItalic.ttf');
+}
