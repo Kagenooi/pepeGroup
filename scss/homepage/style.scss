@@ -1,20 +1,3 @@
-.navbar {
-
-    &__wrapper {
-
-    }
-
-    &__logo {
-
-        &_img {
-            
-        }
-    }
-
-    &__scrolled {
-
-        &_wrapper {
-
-        }
-    }
-}
+@import '../main';
+@import '../navbar';
+@import '../footer';

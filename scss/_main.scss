@@ -1,0 +1,87 @@
+@import '../fonts/_fontsConnect.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'montserrat', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(254.82deg, #042E30 0%, #011415 100%);
+    overflow-x: hidden;
+    height: 10000px;
+}
+
+button,
+select,
+input,
+textarea {
+    display: block;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+select {
+    appearance: none;
+}
+
+textarea {
+    resize: none;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+button,
+select,
+a {
+    cursor: pointer;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+
+.title {
+    font-size: 170px;
+    font-weight: 800;
+    line-height: 208px;
+    color: #fff;
+}
+
+.secondary {
+    font-size: 21px;
+    font-weight: 700;
+    color: #ADFF00;
+}
+
+.subtitle {
+    font-family: 'metric', sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+    color: #ADFF00;
+}
+
+
+.wrapper {
+    width: 100%;
+    max-width: 1610px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
